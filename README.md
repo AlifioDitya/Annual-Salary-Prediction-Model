@@ -21,8 +21,9 @@ The dataset contains features such as [2]:
 
 ## Method
 Prediction is made using machine learning techniques specifically the Logistic Regression Model to classify the income class of a person based off of the feature values described above.
-Evaluation is then conducted with the model having 84.7% accuracy.
+Evaluation is then conducted with the model having 82.2% accuracy.
 
 ## Reference
-- [1] UCI Machine Learning (2016). Kaggle. https://www.kaggle.com/datasets/uciml/adult-census-income
-- [2] Aditi Mulye (2018). Kaggle. https://www.kaggle.com/code/aditimulye/adult-income-dataset-from-scratch 
+- [1] UCI Machine Learning (2016). _Adult Census Income_. Kaggle. https://www.kaggle.com/datasets/uciml/adult-census-income
+- [2] Aditi Mulye (2018). _Adult Income Dataset | From Scratch_. Kaggle. https://www.kaggle.com/code/aditimulye/adult-income-dataset-from-scratch 
+- [3] Janio Bachmann (2019). _Credit Fraud || Dealing with Imbalanced Datasets_. Kaggle. https://www.kaggle.com/code/janiobachmann/credit-fraud-dealing-with-imbalanced-datasets#notebook-container
