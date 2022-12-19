@@ -1,8 +1,8 @@
 # Annual Salary Prediction
-This is a personal machine learning project to predict whether income exceeds $50K/yr based on an Adult Census Income dataset provided by UCI Machine Learning on Kaggle.
+This is a personal machine learning project to predict whether income exceeds $50K/yr based on an Adult Census Income dataset provided by UCI Machine Learning on Kaggle [1].
 
 ## Dataset
-The dataset contains features such as:
+The dataset contains features such as [2]:
 - **Age**: Describes the age of individuals. Continuous.
 - **Workclass**: Private, Self-emp-not-inc, Self-emp-inc, Federal-gov, Local-gov, State-gov, Without-pay, Never-worked.
 - **fnlwgt**: Continuous.
@@ -22,3 +22,7 @@ salary: >50K,<=50K
 ## Method
 Prediction is made using machine learning techniques specifically the Logistic Regression Model to classify the income class of a person based off of the feature values described above.
 Evaluation is then conducted with the model having 84.7% accuracy.
+
+## Reference
+- [1] UCI Machine Learning (2016). Kaggle. https://www.kaggle.com/datasets/uciml/adult-census-income
+- [2] Aditi Mulye (2018). Kaggle. https://www.kaggle.com/code/aditimulye/adult-income-dataset-from-scratch 
